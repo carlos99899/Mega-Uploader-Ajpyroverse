@@ -1,0 +1,11 @@
+#Session File
+MegaUploader.session
+
+#Cache File
+__pycache__/
+megauploader.log
+
+#Test files
+testexp
+beta
+
